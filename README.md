@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hasse Löfgren 🇸🇪
+`father` `husband` `develpoer`
 
-<!--
-**1two3code/1two3code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✉️ Hit me up on __[discussions](https://github.com/1two3code/1two3code/discussions/categories/messages)__ and let's talk!
 
-Here are some ideas to get you started:
+## Currently working on a [ueli](https://github.com/oliverschwendener/ueli) fork on my free time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⌨️ Professionally
+- TypeScript
+- React + Redux
+- AWS CDK
+
+### 🕹️ Learning
+- Web3
+- Solidity
